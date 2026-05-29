@@ -115,13 +115,13 @@ The memory taxonomy is adjacent to the behavioral governance patterns — it add
 - Not a collection of useful CLAUDE.md snippets
 - Not a tool or installable package
 
-It's a **pattern language** — named, reusable solutions to recurring problems in human-AI collaboration. Adapt the patterns to your tools and workflow.
+It's a **pattern language** — named, reusable solutions to recurring problems in human-AI collaboration. Adapt the patterns to your tools and workflow. Keep in mind that for a more professional version a full harnest, including controlpanels, QA, Regression testing will have to be done. Good luck!
 
 ## Origin & Limitations
 
-Built over 3+ months of daily, intensive Claude Code usage across multiple domains (ERP development, financial modeling, trading systems, web development, document automation). Every pattern exists because a real problem demanded it — nothing was designed speculatively.
+Built over 12+ months of daily, intensive Claude Code usage across multiple domains (ERP development, financial modeling, trading systems, web development, document automation, data science). Every pattern exists because a real problem demanded it — nothing was designed speculatively.
 
-**Empirical basis:** These patterns are validated through sustained personal usage (n=1), not controlled experiments. They solved real problems at scale for one heavy user. The framework is a formalized architecture with templates, not a research claim. Your mileage may vary — adapt what works, discard what doesn't.
+**Empirical basis:** These patterns are validated through sustained personal usage (n=1), not controlled experiments. They solved real problems at scale for one heavy user. The framework is a formalized architecture with templates, not a research claim. Your mileage may vary — adapt what works, discard what doesn't. 
 
 ## License
 
